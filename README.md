@@ -43,12 +43,13 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 ## Autores:
 
-- [Felipe Carrasco]([https://github.com/](https://github.com/FelipeCarrasco1803)
-- [Nicolas Brunaldi]([https://github.com/](https://github.com/NicolasBrunaldi)
-- [Luiz Caciabue]
+- [Felipe Carrasco](https://github.com/FelipeCarrasco1803)
+- [Nicolas Brunaldi](https://github.com/NicolasBrunaldi)
+- [Luiz Caciabue](https://github.com/)
+
 ## Licença:
 
-Este projeto não possui licensas
+Este projeto não possui licença.
 
 ## Agradecimentos:
 
