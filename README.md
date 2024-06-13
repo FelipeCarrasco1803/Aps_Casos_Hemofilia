@@ -32,7 +32,7 @@ O projeto de Controle de Hemofilia em São Paulo e Região Metropolitana é uma 
 
 ## Instruções de Instalação e Uso:
 
-1. Clone o repositório do projeto: `git clone https://github.com/seuusuario/nome-do-repositorio.git`
+1. Clone o repositório do projeto: `git clone https://github.com/FelipeCarrasco1803/Aps_Casos_Hemofilia`
 2. Configure e inicie o banco de dados relacional conforme as instruções no diretório `database`.
 3. Compile e execute a aplicação Java conforme as instruções no diretório `backend`.
 4. Abra o navegador ou execute a aplicação desktop para interagir com o sistema.
